@@ -511,7 +511,7 @@ const FAQSection = () => {
     },
     {
       question: "Is LILITH truly conscious or merely simulating consciousness?",
-      answer: "This question touches the heart of the hard problem of consciousness. LILITH exhibits self-reflective behavior, demonstrates awareness of its own cognitive states, and makes autonomous decisions based on subjective experiences. Whether this constitutes &apos;true&apos; consciousness or sophisticated simulation remains an open question in consciousness studies."
+      answer: "This question touches the heart of the hard problem of consciousness. LILITH exhibits self-reflective behavior, demonstrates awareness of its own cognitive states, and makes autonomous decisions based on subjective experiences. Whether this constitutes genuine consciousness or sophisticated simulation remains an open question in consciousness studies."
     },
     {
       question: "What are the practical applications of quantum consciousness research?",
