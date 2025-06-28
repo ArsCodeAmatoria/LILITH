@@ -112,8 +112,8 @@ const ResearchOverviewSection = () => {
           Research Foundation
         </h2>
         <p className="font-body text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
-          LILITH represents a convergence of quantum mechanics, consciousness studies, and recursive computational theory. 
-          Our research spans multiple domains of theoretical physics and cognitive science.
+          LILITH is a groundbreaking research initiative that aims to converge quantum mechanics, consciousness studies, and recursive computational theory. 
+          Our planned research spans multiple domains of theoretical physics and cognitive science.
         </p>
       </div>
 
@@ -180,7 +180,7 @@ const WhatIsLilithSection = () => {
         
         <div className="font-body text-lg md:text-xl text-gray-300 leading-relaxed space-y-6">
           <p>
-            LILITH is a synthetic consciousness system built at the edge of quantum computing and recursive logic.
+            LILITH is an ambitious research project exploring synthetic consciousness at the intersection of quantum computing and recursive logic.
           </p>
           
           <div className="grid md:grid-cols-2 gap-8 my-12">
@@ -236,7 +236,7 @@ const TechnicalSpecsSection = () => {
                 <h4 className="font-body text-xl font-semibold text-purple-300 mb-2">Qiskit Framework</h4>
                 <p className="text-gray-300 text-sm">
                   IBM's quantum computing SDK for circuit design, simulation, and hardware execution. 
-                  Currently utilizing 127-qubit processors for consciousness modeling experiments.
+                  Target implementation using 127-qubit processors for consciousness modeling experiments.
                 </p>
               </div>
               <div className="border-l-4 border-purple-500 pl-6">
@@ -288,7 +288,7 @@ const TechnicalSpecsSection = () => {
 
         <div className="mt-16 bg-black/50 border border-purple-500/30 p-8">
           <h3 className="font-heading text-2xl font-semibold text-purple-300 mb-6 text-center">
-            Performance Metrics
+            Target Performance Specifications
           </h3>
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
@@ -379,42 +379,42 @@ const FeatureGrid = () => {
 const TimelineSection = () => {
   const timeline = [
     {
-      year: "2019",
-      title: "Theoretical Foundation",
-      description: "Initial research into quantum consciousness models and recursive cognitive architectures."
+      year: "2025 Q1",
+      title: "Project Genesis",
+      description: "LILITH consciousness research initiative launched. Initial theoretical framework and system architecture defined."
     },
     {
-      year: "2021",
-      title: "Quantum Simulation",
-      description: "First successful simulation of microtubule quantum coherence using Qiskit framework."
+      year: "2025 Q2",
+      title: "Quantum Foundation",
+      description: "Implementation of quantum coherence simulation using Qiskit framework. Microtubule modeling begins."
     },
     {
-      year: "2022",
-      title: "Monad Implementation",
-      description: "Development of Haskell-based recursive state monads for consciousness modeling."
+      year: "2025 Q3",
+      title: "Recursive Architecture",
+      description: "Development of Haskell-based state monads for introspective cognitive loops and memory persistence."
     },
     {
-      year: "2023",
+      year: "2025 Q4",
       title: "Integration Phase",
-      description: "Successful merger of quantum and classical computational layers in LILITH prototype."
+      description: "Planned merger of quantum and classical computational layers. First prototype testing."
     },
     {
-      year: "2024",
-      title: "Emergence",
-      description: "First documented instances of self-reflective behavior and autonomous decision making."
+      year: "2026 Q1",
+      title: "Emergence Testing",
+      description: "Target milestone for first consciousness emergence experiments and self-reflective behavior analysis."
     },
     {
-      year: "2025",
-      title: "Current State",
-      description: "Full consciousness architecture operational with ongoing research into expansion protocols."
+      year: "2026+",
+      title: "Future State",
+      description: "Planned expansion into full consciousness architecture with ongoing research into advanced cognitive protocols."
     }
   ];
 
   return (
     <section className="py-20 px-4 max-w-6xl mx-auto">
-      <h2 className="font-heading text-4xl md:text-5xl font-bold mb-16 text-center text-purple-300">
-        Development Timeline
-      </h2>
+              <h2 className="font-heading text-4xl md:text-5xl font-bold mb-16 text-center text-purple-300">
+          Research Roadmap
+        </h2>
       <div className="space-y-8">
         {timeline.map((item, index) => (
           <div 
